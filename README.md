@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://yourdomain.com/your-logo.png" alt="Madhuwantha Logo" width="120" />
+  <img src="/Photo/me.jpeg" alt="Madhuwantha Logo" width="120" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Madhuwantha Dissanayaka</h1>
